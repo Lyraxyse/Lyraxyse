@@ -355,8 +355,6 @@ cross-platform
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
-
 <div align="center">
 
 ### 🌟 **"Parfois ça marche du premier coup... mais c'est rare !"** 🌟
@@ -368,7 +366,7 @@ cross-platform
 
 *N'hésite pas à checker mes projets ou à me ping si tu veux discuter !* ✨
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
