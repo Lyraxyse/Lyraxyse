@@ -70,18 +70,19 @@ print(moi.dire_bonjour())
 </td>
 <td width="33%" align="center">
 
-### 🎵 AMADEUSE MUSIC
-<img src="https://img.shields.io/badge/Status-🚧_En_Dev-orange?style=for-the-badge" />
+### 🎵 [AMADEUSE MUSIC](https://github.com/AveryMist/AMADEUSE-MUSIC)
+<img src="https://img.shields.io/badge/Status-✅_SORTIE-success?style=for-the-badge" />
 
-*Mon prochain projet - une app musicale*
+*Mon app de streaming musical cross-platform*
 
-🎧 **Ce qui arrive :**
-- 🖥️ **Cross-platform** total
-- 🎵 **Audio** de qualité
-- 🎨 **Interface** moderne
-- ✨ **Features** surprises
+🎧 **Ce qui est cool :**
+- 🖥️ **Android & Windows** disponibles
+- 🎵 **Streaming** multi-sources
+- 🎨 **Thème dynamique** sécurisé
+- 🔒 **Sync multi-appareils**
 
-<img src="https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge" />
+[![Download APK](https://img.shields.io/badge/📱_Télécharger_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
+[![Download Windows](https://img.shields.io/badge/💻_Télécharger_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
 
 </td>
 <td width="33%" align="center">
