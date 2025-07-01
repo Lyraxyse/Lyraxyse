@@ -73,15 +73,15 @@ print(moi.dire_bonjour())
 <td width="33%" align="center">
 
 ### 🎵 AMADEUSE MUSIC
-<img src="https://img.shields.io/badge/Status-�_En_Dev-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-🚧_En_Dev-orange?style=for-the-badge" />
 
 *Mon prochain projet - une app musicale*
 
 🎧 **Ce qui arrive :**
 - 🖥️ **Cross-platform** total
 - 🎵 **Audio** de qualité
-- � **Interface** moderne
-- � **Features** surprises
+- 🎨 **Interface** moderne
+- ✨ **Features** surprises
 
 <img src="https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge" />
 
@@ -94,10 +94,10 @@ print(moi.dire_bonjour())
 *Application VRChat en développement*
 
 🎮 **AMADEUSE VRC : Développement**
-- � **[Ma World VRChat](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)** - Map custom
-- � **[Mon Groupe VRChat](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)** - Communauté active
+- 🌍 **[Maps VRChat](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)**
+- 👥 **[Mon Groupe VRChat](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)**
 - 💻 **App dédiée** pour VRChat
-- � **Outils** et fonctionnalités spécialisées
+- 🔧 **Outils** et fonctionnalités spécialisées
 
 <img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
 
@@ -356,7 +356,6 @@ cross-platform
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 <div align="center">
 
@@ -369,7 +368,7 @@ cross-platform
 
 *N'hésite pas à checker mes projets ou à me ping si tu veux discuter !* ✨
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
