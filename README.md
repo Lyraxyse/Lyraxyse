@@ -57,7 +57,7 @@ print(moi.dire_bonjour())
 
 *Mon app de lecture de manga pour Android*
 
-� **Features qui tuent :**
+� **Ce qui est cool :**
 - 📚 **1100+ sources** de manga
 - 🎨 **Material You** design
 - 🔒 **Biométrie** intégrée
@@ -93,7 +93,7 @@ print(moi.dire_bonjour())
 - 🎮 **VRChat** integration
 - 🌟 **Features** uniques
 - 🚀 **Expérience** immersive
-- 🎯 **Gameplay** innovant
+- 🎯 **Intégration** poussée
 
 <img src="https://img.shields.io/badge/Progress-25%25-lightgrey?style=for-the-badge" />
 
