@@ -89,17 +89,17 @@ print(moi.dire_bonjour())
 <td width="33%" align="center">
 
 ### 🎮 AMADEUSE VR
-<img src="https://img.shields.io/badge/Status-⏸️_En_Pause-inactive?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-🚧_En_Dev-orange?style=for-the-badge" />
 
-*Un truc pour VRChat*
+*Mes créations VRChat*
 
-🥽 **Prévu :**
-- 🎮 **VRChat** integration
-- 🌟 **Features** uniques
-- 🚀 **Expérience** immersive
-- 🎯 **Intégration** poussée
+🥽 **Déjà disponible :**
+- � **[Ma World VRChat](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)** - Map custom
+- � **[Mon Groupe VRChat](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)** - Communauté active
+- 🎯 **Intégration** poussée avec l'API VRChat
+- 🚀 **Expériences** immersives en développement
 
-<img src="https://img.shields.io/badge/Progress-25%25-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge" />
 
 </td>
 </tr>
@@ -294,25 +294,39 @@ print(moi.dire_bonjour())
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="20%">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
 **Communauté AMADEUSE**
 
 </td>
-<td align="center">
+<td align="center" width="20%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist)
 
 **Mes projets & code**
 
 </td>
-<td align="center">
+<td align="center" width="20%">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:agnetjarod@gmail.com)
 
 **Contact direct**
+
+</td>
+<td align="center" width="20%">
+
+[![VRChat Group](https://img.shields.io/badge/VRChat_Group-1C1C1C?style=for-the-badge&logo=vrchat&logoColor=white&labelColor=1C1C1C)](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)
+
+**Mon groupe VR**
+
+</td>
+<td align="center" width="20%">
+
+[![VRChat World](https://img.shields.io/badge/VRChat_World-FF6B6B?style=for-the-badge&logo=vrchat&logoColor=white&labelColor=FF6B6B)](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)
+
+**Ma map VR**
 
 </td>
 </tr>
@@ -355,6 +369,8 @@ cross-platform
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+
 <div align="center">
 
 ### 🌟 **"Parfois ça marche du premier coup... mais c'est rare !"** 🌟
@@ -366,7 +382,7 @@ cross-platform
 
 *N'hésite pas à checker mes projets ou à me ping si tu veux discuter !* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
 
