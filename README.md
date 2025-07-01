@@ -44,8 +44,6 @@ print(moi.dire_bonjour())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 **Mes petits projets**
 
 <div align="center">
@@ -239,8 +237,6 @@ print(moi.dire_bonjour())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎮 **Ce que j'aime faire**
 
 <table align="center">
@@ -353,9 +349,6 @@ cross-platform
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <div align="center">
 
