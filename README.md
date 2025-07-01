@@ -8,17 +8,30 @@
 
 ### 🚀 **Un peu sur moi**
 
-```typescript
-const moi = {
-    nom: "AveryMyst",
-    lieu: "Quelque part en Belgique 🇧🇪",
-    bio: "Dev belge qui kiffe créer des apps et des expériences digitales",
-    quandJeCodePas: "Je dessine des niveaux de jeux ou teste de nouvelles technos",
-    trucActuel: "Les apps cross-platform - j'aime bien quand ça marche partout !",
-    passion: "Transformer des idées en code qui marche",
-    addiction: "Café ☕ (beaucoup trop)",
-    motto: "Si ça compile, c'est déjà ça !"
-};
+```python
+class AveryMyst:
+    def __init__(self):
+        self.nom = "AveryMyst"
+        self.lieu = "Quelque part en Belgique 🇧🇪"
+        self.bio = "Dev belge qui kiffe créer des apps et des expériences digitales"
+        self.quand_je_code_pas = "Je dessine des niveaux de jeux ou teste de nouvelles technos"
+        self.truc_actuel = "Les apps cross-platform - j'aime bien quand ça marche partout !"
+        self.passion = "Transformer des idées en code qui marche"
+        self.addiction = "Café ☕ (beaucoup trop)"
+        self.motto = "Si ça compile, c'est déjà ça !"
+
+    def dire_bonjour(self):
+        return f"Salut ! Je suis {self.nom} 👋"
+
+    def get_status(self):
+        return "En train de coder avec du café ☕💻"
+
+    def __str__(self):
+        return f"{self.nom} - {self.bio}"
+
+# Instanciation
+moi = AveryMyst()
+print(moi.dire_bonjour())
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -289,7 +302,7 @@ const moi = {
 </td>
 <td align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:contact@averymyst.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:agnetjarod@gmail.com)
 
 **Contact direct**
 
