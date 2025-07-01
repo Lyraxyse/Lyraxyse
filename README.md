@@ -111,7 +111,7 @@ print(moi.dire_bonjour())
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ **Mes outils de travail**
 
@@ -193,7 +193,7 @@ print(moi.dire_bonjour())
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 **Mes stats GitHub**
 
@@ -238,7 +238,7 @@ print(moi.dire_bonjour())
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎮 **Ce que j'aime faire**
 
@@ -274,7 +274,7 @@ print(moi.dire_bonjour())
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 **Citation du Jour**
 
