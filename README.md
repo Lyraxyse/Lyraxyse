@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=AveryMyst&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+
 # 💫 Yo ! Moi c'est 幸 AveryMyst 幸
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Dev+passionné+depuis+la+Belgique;J'adore+créer+des+trucs+cool;Café+%2B+Code+%3D+❤️;Toujours+en+train+de+bidouiller" alt="Typing SVG" />
@@ -42,11 +44,13 @@ print(moi.dire_bonjour())
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 **Mes petits projets**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
 <tr>
@@ -370,4 +374,3 @@ cross-platform
 </div>
 
 </div>
- 
