@@ -11,9 +11,9 @@
 ```typescript
 const AveryMyst = {
     role: "Développeur Full-Stack & Level Designer",
-    location: "France 🇫🇷",
+    location: "Belgique ��",
     passions: ["Développement", "Game Design", "UI/UX", "Open Source"],
-    currentFocus: "Applications mobiles & expériences interactives",
+    currentFocus: "Applications cross-platform & expériences interactives",
     funFact: "Je transforme le café en code depuis 2020 ☕→💻"
 };
 ```
@@ -35,6 +35,17 @@ const AveryMyst = {
 
 [![Download APK](https://img.shields.io/badge/📱_Télécharger_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-READ/releases)
 [![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+
+### 🎵 AMADEUSE MUSIC
+*Application musicale cross-platform en développement*
+- 🖥️ **Multi-plateforme** : Mobile & Desktop
+- 🎧 **Expérience audio** immersive
+- 🚀 **En cours de développement** - Bientôt disponible !
+
+### 🎮 AMADEUSE VR
+*Application VRChat en pause*
+- 🥽 **Intégration VRChat** avancée
+- ⏸️ **En pause** - Reprise après AMADEUSE MUSIC
 
 </div>
 
@@ -152,7 +163,7 @@ const AveryMyst = {
 <td align="center" width="33%">
 
 ### 💻 **Développement**
-- Applications mobiles (Flutter/Android)
+- Applications cross-platform (Mobile/Desktop)
 - Applications web (React/Next.js)
 - APIs REST & GraphQL
 - Microservices & Architecture
@@ -202,8 +213,8 @@ const AveryMyst = {
 ### 💬 **Toujours ouvert à :**
 - 🚀 Collaborations sur des projets innovants
 - 💡 Discussions techniques et créatives
-- 🎮 Projets de game design
-- 📱 Développement d'applications mobiles
+- 🎮 Projets de game design & VR
+- 📱 Développement d'applications cross-platform
 
 </div>
 
