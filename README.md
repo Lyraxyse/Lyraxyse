@@ -4,14 +4,22 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Dev+passionné+depuis+la+Belgique;J'adore+créer+des+trucs+cool;Café+%2B+Code+%3D+❤️;Toujours+en+train+de+bidouiller" alt="Typing SVG" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 **Un peu sur moi**
 
+<table>
+<tr>
+<td width="50%">
+
 Salut ! Je suis un dev belge qui kiffe créer des applications et des expériences digitales.
+
 Quand je code pas, je dessine des niveaux de jeux ou je teste de nouvelles technos.
 
 Mon truc en ce moment ? Les apps cross-platform - j'aime bien quand ça marche partout !
+
+</td>
+<td width="50%">
 
 ```typescript
 const moi = {
@@ -23,6 +31,12 @@ const moi = {
 };
 ```
 
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
@@ -31,26 +45,62 @@ const moi = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" align="center">
+
 ### 📱 [AMADEUSE READ](https://github.com/AveryMist/AMADEUSE-READ)
+<img src="https://img.shields.io/badge/Status-✅_Disponible-success?style=for-the-badge" />
+
 *Mon app de lecture de manga pour Android*
-- 📚 Plus de **1100 sources** de manga (oui, c'est beaucoup !)
-- 🎨 Interface **Material You** qui s'adapte à ton téléphone
-- 🔒 Sécurité avec **empreinte/visage** (parce que c'est stylé)
-- 🌐 **Sync** entre tes appareils pour pas perdre ta lecture
+
+� **Features qui tuent :**
+- 📚 **1100+ sources** de manga
+- 🎨 **Material You** design
+- 🔒 **Biométrie** intégrée
+- 🌐 **Sync multi-appareils**
 
 [![Download APK](https://img.shields.io/badge/📱_Télécharger_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-READ/releases)
-[![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+
+</td>
+<td width="33%" align="center">
 
 ### 🎵 AMADEUSE MUSIC
+<img src="https://img.shields.io/badge/Status-�_En_Dev-orange?style=for-the-badge" />
+
 *Mon prochain projet - une app musicale*
-- 🖥️ **Mobile ET desktop** (parce que pourquoi choisir ?)
-- 🎧 Une expérience audio qui **déchire**
-- 🚀 **En dev** - j'y bosse à fond en ce moment !
+
+🎧 **Ce qui arrive :**
+- 🖥️ **Cross-platform** total
+- 🎵 **Audio** de qualité
+- � **Interface** moderne
+- � **Features** surprises
+
+<img src="https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center">
 
 ### 🎮 AMADEUSE VR
-*Un truc pour VRChat (en pause)*
-- 🥽 Intégration **VRChat** avec des features cool
-- ⏸️ **En pause** le temps de finir AMADEUSE MUSIC
+<img src="https://img.shields.io/badge/Status-⏸️_En_Pause-inactive?style=for-the-badge" />
+
+*Un truc pour VRChat*
+
+🥽 **Prévu :**
+- 🎮 **VRChat** integration
+- 🌟 **Features** uniques
+- 🚀 **Expérience** immersive
+- 🎯 **Gameplay** innovant
+
+<img src="https://img.shields.io/badge/Progress-25%25-lightgrey?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+[![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -138,24 +188,46 @@ const moi = {
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 📊 **Mes stats GitHub**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AveryMist&theme=tokyonight&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+
+</td>
+<td width="50%">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AveryMist&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ---
 
-## 🏆 **Réalisations**
+## 🏆 **Mes trophées**
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AveryMist&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AveryMist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -211,15 +283,66 @@ const moi = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@averymyst.dev)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
+
+**Communauté AMADEUSE**
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist)
+
+**Mes projets & code**
+
+</td>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:contact@averymyst.dev)
+
+**Contact direct**
+
+</td>
+</tr>
+</table>
 
 ### 💬 **Toujours partant pour :**
-- 🚀 Collaborer sur des **projets cool**
-- 💡 Discuter de **tech** et d'**idées créatives**
-- 🎮 Projets **game design** & **VR**
-- 📱 Dev d'apps **cross-platform**
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+🚀 **Collaborer**
+sur des projets cool
+
+</td>
+<td width="25%" align="center">
+
+💡 **Discuter**
+de tech & idées créatives
+
+</td>
+<td width="25%" align="center">
+
+🎮 **Game Design**
+& projets VR
+
+</td>
+<td width="25%" align="center">
+
+📱 **Dev Apps**
+cross-platform
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -227,10 +350,20 @@ const moi = {
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20d'être%20passé%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+
+<div align="center">
+
 ### 🌟 **"Parfois ça marche du premier coup... mais c'est rare !"** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-*Merci d'être passé ! N'hésite pas à checker mes projets ou à me ping si tu veux discuter !* ✨
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+*N'hésite pas à checker mes projets ou à me ping si tu veux discuter !* ✨
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
 
 </div>
