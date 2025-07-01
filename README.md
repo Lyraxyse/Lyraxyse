@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Salut, je suis 幸 AveryMyst 幸
+# 💫 Yo ! Moi c'est 幸 AveryMyst 幸
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+%26+Level+Designer;Créateur+d'expériences+numériques;Passionné+de+technologie+%26+gaming" alt="Typing SVG" />
 
@@ -224,7 +224,7 @@ const AveryMyst = {
 
 ### 🌟 **"Le code est de la poésie que seules les machines peuvent lire"** 🌟
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=AveryMist&icon=2&color=6366f1)
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 *Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter !* ✨
 
