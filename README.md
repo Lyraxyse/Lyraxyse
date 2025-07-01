@@ -61,7 +61,7 @@ print(moi.dire_bonjour())
 
 *Mon app de lecture de manga pour Android*
 
-� **Ce qui est cool :**
+🚀 **Ce qui est cool :**
 - 📚 **1100+ sources** de manga
 - 🎨 **Material You** design
 - 🔒 **Biométrie** intégrée
@@ -106,6 +106,7 @@ print(moi.dire_bonjour())
 </table>
 
 [![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+[![VRChat Group](https://img.shields.io/badge/🥽_Groupe_VRChat-1C1C1C?style=for-the-badge&logo=vrchat&logoColor=white)](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -294,39 +295,25 @@ print(moi.dire_bonjour())
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
 
 **Communauté AMADEUSE**
 
 </td>
-<td align="center" width="20%">
+<td align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist)
 
 **Mes projets & code**
 
 </td>
-<td align="center" width="20%">
+<td align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:agnetjarod@gmail.com)
 
 **Contact direct**
-
-</td>
-<td align="center" width="20%">
-
-[![VRChat Group](https://img.shields.io/badge/VRChat_Group-1C1C1C?style=for-the-badge&logo=vrchat&logoColor=white&labelColor=1C1C1C)](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)
-
-**Mon groupe VR**
-
-</td>
-<td align="center" width="20%">
-
-[![VRChat World](https://img.shields.io/badge/VRChat_World-FF6B6B?style=for-the-badge&logo=vrchat&logoColor=white&labelColor=FF6B6B)](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)
-
-**Ma map VR**
 
 </td>
 </tr>
