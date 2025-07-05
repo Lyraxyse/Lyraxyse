@@ -55,7 +55,7 @@ print(moi.dire_bonjour())
 <td width="33%" align="center">
 
 ### 📱 [AMADEUSE READ](https://github.com/AveryMist/AMADEUSE-READ)
-<img src="https://img.shields.io/badge/Status-✅_Disponible-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-🚧_En_Dev-orange?style=for-the-badge" />
 
 *Mon app de lecture de manga pour Android*
 
