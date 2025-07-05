@@ -65,7 +65,7 @@ print(moi.dire_bonjour())
 - 🔒 **Biométrie** intégrée
 - 🌐 **Sync multi-appareils**
 
-[![Download APK](https://img.shields.io/badge/📱_Télécharger_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-READ/releases)
+<img src="https://img.shields.io/badge/Progress-80%25-orange?style=for-the-badge" />
 
 </td>
 <td width="33%" align="center">
