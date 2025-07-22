@@ -68,8 +68,7 @@ print(moi.dire_bonjour())
 - 🎨 **Thème dynamique** sécurisé
 - 🔒 **Sync multi-appareils**
 
-[![Download APK](https://img.shields.io/badge/📱_Télécharger_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
-[![Download Windows](https://img.shields.io/badge/💻_Télécharger_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
+[![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
 
 </td>
 <td width="33%" align="center">
@@ -85,7 +84,7 @@ print(moi.dire_bonjour())
 - 🔍 **Recherche avancée** de contenu
 - 💾 **Synchronisation** multi-appareils
 
-[![Download](https://img.shields.io/badge/📱_Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ)
+[![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ)
 
 </td>
 </tr>
