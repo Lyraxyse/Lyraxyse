@@ -74,25 +74,24 @@ print(moi.dire_bonjour())
 </td>
 <td width="33%" align="center">
 
-### 🥽 AMADEUSE VRC
-<img src="https://img.shields.io/badge/Status-🚧_En_Dev-orange?style=for-the-badge" />
+### 📖 [READ](https://github.com/AveryMist/READ)
+<img src="https://img.shields.io/badge/Status-✅_SORTIE-success?style=for-the-badge" />
 
-*Application VRChat en développement*
+*Application de lecture moderne*
 
-🎮 **AMADEUSE VRC : Développement**
-- 🌍 **[Maps VRChat](https://vrchat.com/home/world/wrld_8529b861-af0c-4089-879e-22ba1053e628/info)**
-- 👥 **[Mon Groupe VRChat](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)**
-- 💻 **App dédiée** pour VRChat
-- 🔧 **Outils** et fonctionnalités spécialisées
+📚 **READ : Lancé**
+- 📱 **Interface moderne** et intuitive
+- 📖 **Gestion de bibliothèque** personnelle
+- 🔍 **Recherche avancée** de contenu
+- 💾 **Synchronisation** multi-appareils
 
-<img src="https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge" />
+[![Download](https://img.shields.io/badge/📱_Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ/releases)
 
 </td>
 </tr>
 </table>
 
 [![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
-[![VRChat Group](https://img.shields.io/badge/🥽_Groupe_VRChat-1C1C1C?style=for-the-badge&logo=vrchat&logoColor=white)](https://vrchat.com/home/group/grp_c927564c-f0ab-4205-8134-66256548c634)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -238,9 +237,9 @@ print(moi.dire_bonjour())
 </td>
 <td align="center" width="33%">
 
-### 🎯 **Level Design**
-- Créer des niveaux **immersifs**
-- Équilibrer le **gameplay**
+### 🎯 **Innovation**
+- Créer des solutions **innovantes**
+- Optimiser les **performances**
 - **Prototyper** rapidement
 - Bidouiller des **outils custom**
 
@@ -319,8 +318,8 @@ de tech & idées créatives
 </td>
 <td width="25%" align="center">
 
-🎮 **Game Design**
-& projets VR
+🎮 **Innovation**
+& projets créatifs
 
 </td>
 <td width="25%" align="center">
