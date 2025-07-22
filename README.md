@@ -74,7 +74,7 @@ print(moi.dire_bonjour())
 </td>
 <td width="33%" align="center">
 
-### 📖 [READ](https://github.com/AveryMist/READ)
+### 📖 [AMADEUSE READ](https://github.com/AveryMist/READ)
 <img src="https://img.shields.io/badge/Status-✅_SORTIE-success?style=for-the-badge" />
 
 *Application de lecture moderne*
