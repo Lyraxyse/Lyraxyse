@@ -85,7 +85,7 @@ print(moi.dire_bonjour())
 - 🔍 **Recherche avancée** de contenu
 - 💾 **Synchronisation** multi-appareils
 
-[![Download](https://img.shields.io/badge/📱_Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ/releases)
+[![Download](https://img.shields.io/badge/📱_Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ)
 
 </td>
 </tr>
