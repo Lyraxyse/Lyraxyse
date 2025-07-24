@@ -59,32 +59,36 @@ print(moi.dire_bonjour())
 
 ### 🎵 [AMADEUSE MUSIC](https://github.com/AveryMist/AMADEUSE-MUSIC)
 <img src="https://img.shields.io/badge/Status-✅_SORTIE-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-📱_Android_Only-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
 
-*Mon app de streaming musical cross-platform*
+*Application de streaming musical pour Android*
 
-🎧 **Ce qui est cool :**
-- 🖥️ **Android & Windows** disponibles
-- 🎵 **Streaming** multi-sources
-- 🎨 **Thème dynamique** sécurisé
-- 🔒 **Sync multi-appareils**
+🎧 **Fonctionnalités principales :**
+- 📱 **Android uniquement** (Flutter)
+- 🎵 **Streaming** YouTube & YouTube Music
+- 🎨 **Logo unifié arrondi** Material You
+- 🔒 **Cache intelligent** et qualité audio
+- 📻 **Radio intégrée** et playlists Piped
 
 [![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC/releases)
 
 </td>
 <td width="33%" align="center">
 
-### 📖 [AMADEUSE READ](https://github.com/AveryMist/READ)
+### 📖 [AMADEUSE READ](https://github.com/AveryMist/AMADEUSE-READ)
 <img src="https://img.shields.io/badge/Status-✅_SORTIE-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-📱_Android_Only-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
 
-*Application de lecture moderne*
+*Application de lecture manga pour Android*
 
-📚 **READ : Lancé**
-- 📱 **Interface moderne** et intuitive
-- 📖 **Gestion de bibliothèque** personnelle
-- 🔍 **Recherche avancée** de contenu
-- 💾 **Synchronisation** multi-appareils
+📚 **Fonctionnalités principales :**
+- 📱 **Android uniquement** (Kotlin natif)
+- 📖 **1100+ sources** de manga intégrées
+- 🎨 **Material You Design** adaptatif
+- 💾 **Lecture hors ligne** et téléchargements
+- 🔄 **Synchronisation** entre appareils
 
-[![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/READ)
+[![Download](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-READ)
 
 </td>
 </tr>
