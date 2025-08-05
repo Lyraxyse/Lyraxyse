@@ -10,7 +10,7 @@
 </p>
 
 <!-- Animated typing effect with more style -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💻+Software+Engineer;🎮+VRChat+OSC+Integration;🚀+Desktop+Application+Developer;🌟+Open+Source+Contributor;⚡+5%2B+Years+Experience" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%AE+VRChat+OSC+Integration;%F0%9F%9A%80+Desktop+Application+Developer;%F0%9F%8C%9F+Open+Source+Contributor;%E2%9A%A1+5%2B+Years+Experience" alt="Typing Animation" />
 
 <!-- Enhanced decorative elements -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
@@ -34,7 +34,7 @@
 
 <!-- Visitor counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile+views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -75,7 +75,7 @@ class AveryMyst {
     status = "🚀 Active Developer"
     mission = "Creating robust desktop applications"
     specialty = "VRChat OSC Integration"
-    technologies = ["TypeScript", "Electron", "Python", "C#", "Unity"]
+    technologies = ["TypeScript", "JavaScript", "Python", "C#", "C++", "Java", "Rust", "Electron", "React", "Unity"]
     
     getSkills(): string[] {
         return [
@@ -182,6 +182,10 @@ console.log(averymyst.sayHello())
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🚀-Frameworks-FF9800?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Frameworks"/>
@@ -190,14 +194,22 @@ console.log(averymyst.sayHello())
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🛠️-Tools-4CAF50?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Tools"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎮-Specialty-9C27B0?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Specialty"/>
@@ -213,6 +225,23 @@ console.log(averymyst.sayHello())
 ### 📊 **Language Statistics**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Most Used Languages" width="100%"/>
+
+### 🌐 **Additional Languages & Technologies**
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+<img src="https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+</p>
 
 </div>
 
