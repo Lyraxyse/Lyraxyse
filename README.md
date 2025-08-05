@@ -1,126 +1,223 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=AveryMyst&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+# 👋 AveryMyst - Développeur AMADEUSE
 
-# 💫 Yo ! Moi c'est 幸 AveryMyst 幸
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Dev+passionné+depuis+la+Belgique;J'adore+créer+des+trucs+cool;Café+%2B+Code+%3D+❤️;Toujours+en+train+de+bidouiller;En+recherche+de+nouveaux+projets" alt="Typing SVG" />
+## 🌐 Navigation / Navigation
+
+**[🇫🇷 Cliquer ici pour Français](#français) | [🇬🇧 Click Here for English](#english)**
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 **Un peu sur moi**
-
-</div>
-
-```python
-class AveryMyst:
-    def __init__(self):
-        self.nom = "AveryMyst"
-        self.lieu = "Quelque part en Belgique 🇧🇪"
-        self.bio = "Dev belge qui kiffe créer des apps et des expériences digitales"
-        self.quand_je_code_pas = "Je dessine des niveaux de jeux ou teste de nouvelles technos"
-        self.truc_actuel = "Les apps cross-platform - j'aime bien quand ça marche partout !"
-        self.projets_actifs = ["AMADEUSE-YTM"]
-        self.projets_abandonnes = ["AMADEUSE-MUSIC", "AMADEUSE-READ"]
-        self.passion = "Transformer des idées en code qui marche"
-        self.addiction = "Café ☕ (beaucoup trop)"
-        self.motto = "Si ça compile, c'est déjà ça !"
-
-    def dire_bonjour(self):
-        return f"Salut ! Je suis {self.nom} 👋"
-
-    def get_status(self):
-        return "En train de coder avec du café ☕💻"
-
-    def get_projets_actifs(self):
-        return "Actuellement en développement: AMADEUSE YTM - Client YouTube Music Desktop"
-
-    def __str__(self):
-        return f"{self.nom} - {self.bio}"
-
-# Instanciation
-moi = AveryMyst()
-print(moi.dire_bonjour())
-print(moi.get_projets_actifs())
-```
-
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🇫🇷+Développeur+passionné+de+musique;🇬🇧+Music-passionate+developer;🇫🇷+Créateur+d'applications+AMADEUSE;🇬🇧+AMADEUSE+applications+creator;🇫🇷+Toujours+en+quête+de+nouveaux+défis;🇬🇧+Always+seeking+new+challenges" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🎯 **Mes petits projets**
+---
+
+## Français
+
+### �‍💻 À propos de moi
+
+**Salut ! Je suis AveryMyst**, développeur passionné spécialisé dans la création d'applications musicales et de lecture. Je développe principalement des projets sous la marque **AMADEUSE**, avec un focus sur l'expérience utilisateur et l'innovation.
+
+### 🚀 Mes Projets AMADEUSE
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🎵 [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
-<img src="https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-🖥️_Desktop_Multi--OS-6366F1?style=for-the-badge&logo=electron&logoColor=white" />
+### ✅ [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
+![Status](https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🖥️_Desktop-4CAF50?style=for-the-badge&logo=electron&logoColor=white)
 
-*Client YouTube Music Desktop avec icônes personnalisées*
+*Client YouTube Music Desktop avec fonctionnalités avancées*
 
-✨ **Fonctionnalités :**
-- 🎵 **YouTube Music** en application desktop
-- 🎨 **Icônes AMADEUSE** personnalisées
-- 🔌 **Plugins** avancés inclus
-- 🌍 **Multi-plateforme** (Windows/Mac/Linux)
-- 🚫 **Bloqueur de pub** intégré
+**Fonctionnalités :**
+- 🎵 YouTube Music en desktop
+- 💬 Chatbox OSC intégrée
+- 🎮 Support VRChat OSC
+- 🎨 Interface AMADEUSE personnalisée
+- 🔌 Plugins avancés inclus
+- 🌍 Multi-plateforme
+- 🚫 Bloqueur de pub intégré
 
-[![Télécharger](https://img.shields.io/badge/Télécharger-6366F1?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
-
-</td>
-<td width="33%" align="center">
-
-### 🎵 [AMADEUSE MUSIC](https://github.com/AveryMist/AMADEUSE-MUSIC)
-<img src="https://img.shields.io/badge/Status-⚠️_ABANDONNÉ-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-📱_Android_Only-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
-
-*Application de streaming musical pour Android*
-
-⚠️ **Statut du projet :**
-- 🚫 **Projet abandonné** - Problèmes de compilation
-- 📂 **Code source public** sur GitHub
-- 🎵 **Inspiré de** [Harmony Music](https://github.com/anandnet/Harmony-Music)
-- 🛠️ **Libre d'utilisation** et modification
-- 🐛 **Correction des bugs** laissée aux contributeurs
-
-[![View Code](https://img.shields.io/badge/Voir_le_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC)
+[![Télécharger](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
 
 </td>
 <td width="33%" align="center">
 
-### 📖 [AMADEUSE READ](https://github.com/AveryMist/AMADEUSE-READ)
-<img src="https://img.shields.io/badge/Status-⚠️_ABANDONNÉ-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-📱_Android_Only-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
+### 🎯 [AMADEUSE YTM - Version Complète](https://github.com/AveryMist/AMADEUSE-YTM)
+![Status](https://img.shields.io/badge/Status-✅_ACTIF-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🖥️_Desktop-4CAF50?style=for-the-badge&logo=electron&logoColor=white)
 
-*Application de lecture manga pour Android*
+*Client YouTube Music Desktop avec fonctionnalités avancées*
 
-⚠️ **Statut du projet :**
-- 🚫 **Projet abandonné** - Problèmes de compilation
-- 📂 **Code source public** sur GitHub
-- 📚 **Alternative recommandée** : [Flutter Apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)
-- 🛠️ **Libre d'utilisation** et modification
-- 🐛 **Correction des bugs** laissée aux contributeurs
+**Nouvelles fonctionnalités :**
+- 💬 Chatbox OSC intégrée
+- 🎮 Support VRChat OSC
+- 🎨 Interface AMADEUSE personnalisée
+- 🔌 Plugins avancés
+- 🚫 Bloqueur de pub intégré
 
-[![View Code](https://img.shields.io/badge/Voir_le_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-READ)
+[![Télécharger](https://img.shields.io/badge/Télécharger-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
+
+</td>
+<td width="33%" align="center">
+
+### 📢 Projet Unique
+![Status](https://img.shields.io/badge/Status-🎯_FOCUS-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🌟_Qualité-FFD700?style=for-the-badge&logo=star&logoColor=white)
+
+*Concentration sur un seul projet de qualité*
+
+**Pourquoi un seul projet ?**
+Pour offrir la meilleure expérience possible et maintenir une qualité optimale
+
+**AMADEUSE YTM** est désormais le projet principal et unique de la marque AMADEUSE
+
+[![Découvrir](https://img.shields.io/badge/Découvrir-FFD700?style=for-the-badge&logo=star&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
 
 </td>
 </tr>
-
 </table>
 
-[![Discord Community](https://img.shields.io/badge/💬_Rejoins_la_Communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🛠️ Technologies Utilisées
+
+- **Desktop :** Electron, TypeScript, Node.js
+- **Mobile :** Kotlin, Android SDK, Material Design
+- **Web :** JavaScript, HTML5, CSS3
+- **Outils :** Git, VS Code, GitHub Actions
+
+### 📞 Contact & Communauté
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+[![GitHub](https://img.shields.io/badge/GitHub-AveryMist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
 
 </div>
+
+---
+
+## 📄 Licence / License
+
+**Français :** Tous les projets AMADEUSE sont sous licence MIT. Vous êtes libre de les utiliser, modifier et distribuer selon les termes de cette licence.
+
+**English :** All AMADEUSE projects are under MIT License. You are free to use, modify and distribute them according to the terms of this license.
+
+---
+
+## 📞 Contact
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+[![GitHub](https://img.shields.io/badge/GitHub-AveryMist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
+
+**Français :** N'hésitez pas à me contacter pour toute question, suggestion ou collaboration !
+
+**English :** Feel free to contact me for any questions, suggestions or collaborations!
+
+</div>
+
+</div>
+
+---
+
+## English
+
+### 👨‍💻 About Me
+
+**Hi! I'm AveryMyst**, a passionate developer specialized in creating music and reading applications. I mainly develop projects under the **AMADEUSE** brand, with a focus on user experience and innovation.
+
+### 🚀 My AMADEUSE Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ✅ [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
+![Status](https://img.shields.io/badge/Status-✅_ACTIVE-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🖥️_Desktop-4CAF50?style=for-the-badge&logo=electron&logoColor=white)
+
+*YouTube Music Desktop Client with advanced features*
+
+**Features:**
+- 🎵 YouTube Music on desktop
+- 💬 Integrated OSC Chatbox
+- 🎮 VRChat OSC Support
+- 🎨 Custom AMADEUSE Interface
+- 🔌 Advanced plugins included
+- 🌍 Multi-platform support
+- 🚫 Integrated ad blocker
+
+[![Download](https://img.shields.io/badge/Download-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 [AMADEUSE YTM - Full Version](https://github.com/AveryMist/AMADEUSE-YTM)
+![Status](https://img.shields.io/badge/Status-✅_ACTIVE-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🖥️_Desktop-4CAF50?style=for-the-badge&logo=electron&logoColor=white)
+
+*YouTube Music Desktop Client with advanced features*
+
+**New features:**
+- 💬 Integrated OSC Chatbox
+- 🎮 VRChat OSC Support
+- 🎨 Custom AMADEUSE Interface
+- 🔌 Advanced plugins
+- 🚫 Integrated ad blocker
+
+[![Download](https://img.shields.io/badge/Download-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
+
+</td>
+<td width="33%" align="center">
+
+### 📢 Single Project
+![Status](https://img.shields.io/badge/Status-🎯_FOCUS-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-🌟_Quality-FFD700?style=for-the-badge&logo=star&logoColor=white)
+
+*Focus on one quality project*
+
+**Why a single project?**
+To provide the best possible experience and maintain optimal quality
+
+**AMADEUSE YTM** is now the main and only project of the AMADEUSE brand
+
+[![Discover](https://img.shields.io/badge/Discover-FFD700?style=for-the-badge&logo=star&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🛠️ Technologies Used
+
+- **Desktop:** Electron, TypeScript, Node.js
+- **Mobile:** Kotlin, Android SDK, Material Design
+- **Web:** JavaScript, HTML5, CSS3
+- **Tools:** Git, VS Code, GitHub Actions
+
+### 📞 Contact & Community
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+[![GitHub](https://img.shields.io/badge/GitHub-AveryMist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
 
 ## 🛠️ **Mes outils de travail**
 
