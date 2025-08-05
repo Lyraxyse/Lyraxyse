@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=150&section=header&text=AveryMyst&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"/>
 
 <!-- Enhanced typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=🚀+Software+Engineer;💻+Desktop+Application+Developer;🎮+VRChat+OSC+Integration;🌟+Open+Source+Contributor" alt="Professional Title" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=🚀+Software+Engineer;💻+Desktop+Application+Developer;🎮+VRChat+OSC+Integration;🌟+Open+Source+Contributor" alt="Professional Title" />
 
 <!-- Elegant divider -->
 <img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
@@ -298,7 +298,7 @@ I create robust, user-focused applications under the **AMADEUSE** brand, with em
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AveryMist&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=AveryMist&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Contribution Streak" />
 
 </td>
 </tr>
