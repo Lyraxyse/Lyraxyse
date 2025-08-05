@@ -34,7 +34,7 @@
 
 <!-- Visitor counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile+views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
