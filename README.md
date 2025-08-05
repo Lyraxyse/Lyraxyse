@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=150&section=header&text=AveryMyst&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=150&section=header&text=AveryMyst&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"/>
 
 <!-- Enhanced typing animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=🚀+Software+Engineer;💻+Desktop+Application+Developer;🎮+VRChat+OSC+Integration;🌟+Open+Source+Contributor" alt="Professional Title" />
