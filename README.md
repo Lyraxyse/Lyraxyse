@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=🚀+Software+Engineer;💻+Desktop+Application+Developer;🎮+VRChat+OSC+Integration;🌟+Open+Source+Contributor" alt="Professional Title" />
 
 <!-- Elegant divider -->
-<img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
+<img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- Modern badges with icons -->
 <p>
