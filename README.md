@@ -1,12 +1,21 @@
 <div align="center">
 
-# 👋 AveryMyst - AMADEUSE Developer
+<!-- Header with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=AMADEUSE%20MUSIC%20NEWS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📰%20Music%20News%20•%20🔍%20Smart%20Search%20•%20📱%20Modern%20UI%20•%20🌐%20Real-time&descAlignY=60&descSize=20"/>
 
+<!-- Animated typing effect with more style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=📰+Agrégateur+d'actualités+musicales;🔍+Recherche+avancée+par+artiste;📱+Interface+moderne+et+responsive;🌐+Actualités+en+temps+réel;🎨+Mode+sombre%2Fclair+adaptatif" alt="Typing Animation" />
+
+<!-- Enhanced decorative elements -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🎵+Music-passionate+developer;🚀+AMADEUSE+applications+creator;💻+Always+seeking+new+challenges;🎮+VRChat+OSC+Integration+Expert" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Status badges with animations -->
+<p>
+<img src="https://img.shields.io/badge/Status-🚀%20EN%20DÉVELOPPEMENT-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Platform-🌐%20Web%20App-4A90E2?style=for-the-badge&logo=electron&logoColor=white&labelColor=1a1a1a" alt="Platform"/>
+<img src="https://img.shields.io/badge/License-📄%20MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" alt="License"/>
+<img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+</p>
 
 </div>
 
@@ -287,6 +296,6 @@ app development
 
 *Feel free to check out my projects or ping me if you want to chat!* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20!%20Thank%20you%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
