@@ -1,282 +1,255 @@
 <div align="center">
 
-<!-- Modern Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=150&section=header&text=AveryMyst&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"/>
+<!-- Header with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=AVERYMYST&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=💻%20Software%20Engineer%20•%20🎮%20VRChat%20OSC%20•%20🚀%20Desktop%20Apps%20•%20🌟%20Open%20Source&descAlignY=60&descSize=20"/>
 
-<!-- Enhanced typing animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=🚀+Software+Engineer;💻+Desktop+Application+Developer;🎮+VRChat+OSC+Integration;🌟+Open+Source+Contributor" alt="Professional Title" />
+<!-- Profile view with animated stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=AveryMist&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" width="48%"/>
+</p>
 
-<!-- Elegant divider -->
-<img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<!-- Animated typing effect with more style -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💻+Software+Engineer;🎮+VRChat+OSC+Integration;🚀+Desktop+Application+Developer;🌟+Open+Source+Contributor;⚡+5%2B+Years+Experience" alt="Typing Animation" />
 
-<!-- Modern badges with icons -->
+<!-- Enhanced decorative elements -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<!-- Status badges with animations -->
 <p>
-<img src="https://img.shields.io/badge/🎯_Focus-Desktop_Applications-667eea?style=for-the-badge&logoColor=white" alt="Focus"/>
-<img src="https://img.shields.io/badge/🎮_Specialty-VRChat_OSC-764ba2?style=for-the-badge&logoColor=white" alt="Specialty"/>
-<img src="https://img.shields.io/badge/⚡_Experience-5%2B_Years-4CAF50?style=for-the-badge&logoColor=white" alt="Experience"/>
+<img src="https://img.shields.io/badge/Status-🚀%20ACTIVE%20DEVELOPER-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-💻%20Desktop%20Apps-4A90E2?style=for-the-badge&logo=electron&logoColor=white&labelColor=1a1a1a" alt="Focus"/>
+<img src="https://img.shields.io/badge/Specialty-🎮%20VRChat%20OSC-purple?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1a1a" alt="Specialty"/>
+<img src="https://img.shields.io/badge/Experience-⚡%205%2B%20Years-success?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" alt="Experience"/>
+</p>
+
+<!-- Social proof section -->
+<p>
+<img src="https://img.shields.io/github/followers/AveryMist?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/AveryMist?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub stars"/>
+</p>
+
+<!-- Visitor counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Profile
-
 <div align="center">
 
-**🎯 Software Engineer** specializing in **desktop application development** and **VRChat OSC integration**
+## 🌟 **About AveryMyst**
 
-I create robust, user-focused applications under the **AMADEUSE** brand, with emphasis on code quality, performance optimization, and seamless user experience.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Core Competencies
-- **Desktop Application Development** using Electron and modern web technologies
-- **VRChat OSC Protocol Implementation** for real-time communication
-- **Cross-platform Software Architecture** and deployment
-
-</td>
-<td width="50%">
-
-### 💡 Technical Excellence
-- **Performance Optimization** and memory management
-- **User Interface Design** with focus on accessibility
-- **Code Quality Assurance** and best practices
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
-
-![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/AveryMist/AMADEUSE-YTM/total?style=for-the-badge&color=green)
-
-**Advanced YouTube Music Desktop Client with VRChat Integration**
-
-</div>
-
-### Technical Features
-
-<table>
-<tr>
-<td width="50%">
-
-#### **Core Architecture**
-- **Electron-based** desktop application
-- **Modular plugin system** for extensibility
-- **Cross-platform compatibility** (Windows, macOS, Linux)
-- **Integrated ad-blocking** technology
-- **Custom UI framework** with modern design principles
-
-</td>
-<td width="50%">
-
-#### **VRChat OSC Integration**
-- **Real-time OSC communication** with VRChat
-- **Chatbox integration** for music display
-- **Custom OSC command handling**
-- **Low-latency data transmission**
-- **Configurable OSC endpoints**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases/latest)
-[![View Documentation](https://img.shields.io/badge/View_Documentation-2196F3?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
-
-</div>
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**Primary Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-</td>
-<td align="center" width="20%">
-
-**Systems Programming**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-**Enterprise & Web**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-**Mobile & Modern**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=flat-square&logo=apple&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-**Scripting & Others**
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🛠️ Frameworks & Technologies
-
+<!-- Project showcase with enhanced visuals -->
 <table>
 <tr>
 <td align="center" width="33%">
-
-**Desktop & Cross-Platform**
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-
+<img src="https://img.shields.io/badge/💻-Desktop%20Apps-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="Desktop"/>
+<br/><b>Cross-Platform Development</b>
 </td>
 <td align="center" width="33%">
-
-**Web Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
+<img src="https://img.shields.io/badge/🎮-VRChat%20OSC-FF9800?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="VRChat"/>
+<br/><b>Real-time Integration</b>
 </td>
 <td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌟-Open%20Source-4CAF50?style=for-the-badge&logoColor=white&labelColor=2d2d2d" alt="OpenSource"/>
+<br/><b>Community Driven</b>
+</td>
+</tr>
+</table>
 
-**Backend & Runtime**
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+```typescript
+class AveryMyst {
+    name = "AveryMyst"
+    role = "Software Engineer"
+    experience = "5+ Years"
+    status = "🚀 Active Developer"
+    mission = "Creating robust desktop applications"
+    specialty = "VRChat OSC Integration"
+    technologies = ["TypeScript", "Electron", "Python", "C#", "Unity"]
+    
+    getSkills(): string[] {
+        return [
+            "💻 Desktop Application Development",
+            "🎮 VRChat OSC Protocol Implementation",
+            "🚀 Cross-platform Software Architecture",
+            "⚡ Performance Optimization",
+            "🌟 Open Source Contribution"
+        ]
+    }
+    
+    sayHello(): string {
+        return `Hello! I'm ${this.name}, ${this.role} 💻`
+    }
+    
+    getCurrentFocus(): string {
+        return `${this.status} - Building amazing desktop experiences 🚀`
+    }
+}
+
+const averymyst = new AveryMyst()
+console.log(averymyst.sayHello())
+```
+
+<div align="center">
+
+## 🚀 **Featured Projects**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Feature highlights with icons -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐-Production%20Ready-gold?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Production"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔓-Open%20Source-success?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="OpenSource"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨-Modern%20UI-purple?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Modern UI"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎵 **AMADEUSE YTM**
+<img src="https://img.shields.io/badge/Status-🚀_PRODUCTION_READY-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-💻_Cross_Platform-4A90E2?style=for-the-badge&logo=electron&logoColor=white" />
+
+**Advanced YouTube Music Desktop Client**
+
+🎵 **Main Features:**
+- 🎵 **Enhanced YouTube Music** experience
+- 🎮 **VRChat OSC integration** for real-time display
+- 🚫 **Ad-blocking** technology
+- 🎨 **Custom themes** and UI
+- ⚡ **Performance optimized**
+
+[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
+
+</td>
+<td width="50%" align="center">
+
+### 📰 **AMADEUSE MUSIC NEWS**
+<img src="https://img.shields.io/badge/Status-🛠️_IN_DEVELOPMENT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-🌐_Web_Application-4CAF50?style=for-the-badge&logo=web&logoColor=white" />
+
+**Modern Music News Aggregator**
+
+📰 **Current Features:**
+- 📰 **Real-time music news** aggregation
+- 🔍 **Smart search** by artist/genre
+- 📱 **Responsive design** for all devices
+- 🌐 **Multi-source** news integration
+- 🎨 **Dark/Light themes**
+
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC-NEWS)
 
 </td>
 </tr>
 </table>
 
-### ⚙️ Development Tools & Platforms
+[![Discord Community](https://img.shields.io/badge/💬_Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
 
+</div>
+
+## 🛠️ **Technical Stack**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Enhanced tech stack with visual organization -->
 <table>
 <tr>
 <td align="center" width="25%">
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)
-
+<img src="https://img.shields.io/badge/💻-Primary%20Languages-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Primary"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 </td>
 <td align="center" width="25%">
-
-**IDEs & Editors**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
-
+<img src="https://img.shields.io/badge/🚀-Frameworks-FF9800?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Frameworks"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </td>
 <td align="center" width="25%">
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<img src="https://img.shields.io/badge/🛠️-Tools-4CAF50?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Tools"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </td>
 <td align="center" width="25%">
-
-**Build Tools**
-
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-
+<img src="https://img.shields.io/badge/🎮-Specialty-9C27B0?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Specialty"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VRChat_OSC-1E88E5?style=for-the-badge&logo=unity&logoColor=white" alt="VRChat OSC"/>
+<img src="https://img.shields.io/badge/Real--time_Systems-FF5722?style=for-the-badge&logo=speedtest&logoColor=white" alt="Real-time"/>
+<img src="https://img.shields.io/badge/Cross--Platform-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="Cross-Platform"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-FFC107?style=for-the-badge&logo=lightning&logoColor=black" alt="Performance"/>
 </td>
 </tr>
 </table>
 
-### 🗄️ Databases & Backend
+### 📊 **Language Statistics**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Most Used Languages" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 **Areas of Expertise**
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💻-Desktop%20Development-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Desktop"/>
+<br/><br/>
+• Cross-platform application architecture<br/>
+• Performance optimization techniques<br/>
+• Memory management and efficiency<br/>
+• Modern UI/UX design patterns<br/>
+• Electron and native development
 </td>
-<td align="center" width="50%">
-
-**APIs & Services**
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎮-VRChat%20OSC%20Integration-FF9800?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="VRChat"/>
+<br/><br/>
+• OSC protocol implementation<br/>
+• Real-time communication systems<br/>
+• Custom chatbox solutions<br/>
+• Network optimization<br/>
+• Unity integration patterns
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀-Software%20Engineering-4CAF50?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Engineering"/>
+<br/><br/>
+• Clean code principles<br/>
+• Test-driven development<br/>
+• CI/CD pipeline setup<br/>
+• Code review and quality assurance<br/>
+• Open source contribution
 </td>
 </tr>
 </table>
@@ -285,109 +258,34 @@ I create robust, user-focused applications under the **AMADEUSE** brand, with em
 
 ---
 
-## 📊 Development Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics" />
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=AveryMist&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Contribution Streak" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🎯 Areas of Expertise
+## 🤝 **Let's Connect**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-### **Desktop Development**
-- Cross-platform application architecture
-- Performance optimization techniques
-- Memory management and resource efficiency
-- User interface design patterns
-
+<a href="https://github.com/AveryMist">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<br/><b>Source Code & Projects</b>
 </td>
 <td align="center" width="33%">
-
-### **VRChat OSC Integration**
-- OSC protocol implementation
-- Real-time communication systems
-- Custom chatbox solutions
-- Network optimization
-
+<a href="https://discord.gg/GEZCQwczMY">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<br/><b>Technical Community</b>
 </td>
 <td align="center" width="33%">
-
-### **Software Engineering**
-- Clean code principles
-- Test-driven development
-- Continuous integration/deployment
-- Code review and quality assurance
-
+<a href="mailto:agnetjarod@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<br/><b>Professional Inquiries</b>
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📈 Project Metrics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Activity" />
-
-</div>
-
----
-
-## 🤝 Professional Contact
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
-**Source Code & Projects**
-
-</td>
-<td align="center" width="33%">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
-**Technical Community**
-
-</td>
-<td align="center" width="33%">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnetjarod@gmail.com)
-**Professional Inquiries**
-
-</td>
-</tr>
-</table>
-
-### Available for:
+### 🌟 **Available for:**
 - **Technical Collaboration** on desktop applications
 - **VRChat OSC Integration** consulting
 - **Code Review** and architecture discussions
@@ -399,9 +297,8 @@ I create robust, user-focused applications under the **AMADEUSE** brand, with em
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=58a6ff&style=for-the-badge&label=Profile+Views)
-![Made with Precision](https://img.shields.io/badge/Made_with-Precision_&_Quality-58a6ff?style=for-the-badge)
+<img src="https://img.shields.io/badge/Made_with-💖_&_☕-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Made with love"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 
 </div>
