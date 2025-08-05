@@ -1,119 +1,125 @@
 <div align="center">
 
-<!-- Header with animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=AMADEUSE%20MUSIC%20NEWS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=📰%20Music%20News%20•%20🔍%20Smart%20Search%20•%20📱%20Modern%20UI%20•%20🌐%20Real-time&descAlignY=60&descSize=20"/>
+<!-- Professional Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=200&section=header&text=AveryMyst&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Desktop%20Applications%20•%20VRChat%20OSC%20Integration&descAlignY=55&descSize=16"/>
 
-<!-- Animated typing effect with more style -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=120&lines=📰+Agrégateur+d'actualités+musicales;🔍+Recherche+avancée+par+artiste;📱+Interface+moderne+et+responsive;🌐+Actualités+en+temps+réel;🎨+Mode+sombre%2Fclair+adaptatif" alt="Typing Animation" />
+<!-- Professional typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Software+Engineer;Desktop+Application+Developer;VRChat+OSC+Integration+Specialist;Open+Source+Contributor" alt="Professional Title" />
 
-<!-- Enhanced decorative elements -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Clean divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Status badges with animations -->
+<!-- Professional badges -->
 <p>
-<img src="https://img.shields.io/badge/Status-🚀%20EN%20DÉVELOPPEMENT-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Status"/>
-<img src="https://img.shields.io/badge/Platform-🌐%20Web%20App-4A90E2?style=for-the-badge&logo=electron&logoColor=white&labelColor=1a1a1a" alt="Platform"/>
-<img src="https://img.shields.io/badge/License-📄%20MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" alt="License"/>
-<img src="https://img.shields.io/badge/Code-📂%20Open%20Source-success?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Focus-Desktop_Applications-2196F3?style=for-the-badge&logo=electron&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Specialty-VRChat_OSC-9C27B0?style=for-the-badge&logo=unity&logoColor=white" alt="Specialty"/>
+<img src="https://img.shields.io/badge/Experience-5%2B_Years-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Experience"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-**Hi! I'm AveryMyst**, a passionate developer specialized in creating music applications. I develop projects under the **AMADEUSE** brand, with a focus on user experience and innovation.
+**Software Engineer** specializing in **desktop application development** and **VRChat OSC integration**. I create robust, user-focused applications under the **AMADEUSE** brand, with emphasis on code quality, performance optimization, and seamless user experience.
 
-## 🚀 My AMADEUSE Project
+### Core Competencies
+- **Desktop Application Development** using Electron and modern web technologies
+- **VRChat OSC Protocol Implementation** for real-time communication
+- **Cross-platform Software Architecture** and deployment
+- **Performance Optimization** and memory management
+- **User Interface Design** with focus on accessibility and usability
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
-### ✅ [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
-![Status](https://img.shields.io/badge/Status-✅_ACTIVE-success?style=for-the-badge&logo=checkmark&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-🖥️_Desktop-4CAF50?style=for-the-badge&logo=electron&logoColor=white)
-![Downloads](https://img.shields.io/github/downloads/AveryMist/AMADEUSE-YTM/total?style=for-the-badge&logo=download&logoColor=white&color=blue)
+### [AMADEUSE YTM](https://github.com/AveryMist/AMADEUSE-YTM)
 
-*The Ultimate YouTube Music Desktop Client with Advanced Features*
+![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Cross_Platform-blue?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/AveryMist/AMADEUSE-YTM/total?style=for-the-badge&color=green)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Advanced YouTube Music Desktop Client with VRChat Integration**
 
-### 🌟 **Key Features**
+</div>
+
+### Technical Features
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-#### 🎵 **Core Features**
-- 🖥️ **Desktop YouTube Music**
-- 🚫 **Integrated Ad Blocker**
-- 🎨 **Custom AMADEUSE Interface**
-- 🔌 **Advanced Plugin System**
-- 🌍 **Multi-platform Support**
+#### **Core Architecture**
+- **Electron-based** desktop application
+- **Modular plugin system** for extensibility
+- **Cross-platform compatibility** (Windows, macOS, Linux)
+- **Integrated ad-blocking** technology
+- **Custom UI framework** with modern design principles
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-#### 🎮 **VRChat Integration**
-- 💬 **OSC Chatbox Integration**
-- 🎮 **VRChat OSC Support**
-- 📡 **Real-time Music Display**
-- 🎯 **Custom OSC Commands**
-- ⚡ **Low Latency Communication**
+#### **VRChat OSC Integration**
+- **Real-time OSC communication** with VRChat
+- **Chatbox integration** for music display
+- **Custom OSC command handling**
+- **Low-latency data transmission**
+- **Configurable OSC endpoints**
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-### 📥 **Download Now**
-
-[![Download Latest](https://img.shields.io/badge/Download_Latest_Release-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases/latest)
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases/latest)
+[![View Documentation](https://img.shields.io/badge/View_Documentation-2196F3?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM)
 
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Technical Stack
 
 <div align="center">
 
 <details>
-<summary><b>🖥️ Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🌐 Frontend & Desktop</b></summary>
+<summary><b>Frameworks & Technologies</b></summary>
 <br>
 
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend & Tools</b></summary>
+<summary><b>Development Tools</b></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 </details>
 
@@ -121,52 +127,32 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 Development Statistics
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Statistics" />
 
 </td>
 <td width="50%">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AveryMist&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AveryMist&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Contribution Streak" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AveryMist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 🎯 **What I Love Doing**
+## 🎯 Areas of Expertise
 
 <div align="center">
 
@@ -174,29 +160,29 @@
 <tr>
 <td align="center" width="33%">
 
-### 💻 **Development**
-- Cross-platform **applications**
-- Modern **web interfaces**
-- Robust **API architecture**
-- Performance **optimization**
+### **Desktop Development**
+- Cross-platform application architecture
+- Performance optimization techniques
+- Memory management and resource efficiency
+- User interface design patterns
 
 </td>
 <td align="center" width="33%">
 
-### 🎮 **VRChat Integration**
-- **OSC protocol** implementation
-- Real-time **communication**
-- Custom **chatbox** solutions
-- **Music synchronization**
+### **VRChat OSC Integration**
+- OSC protocol implementation
+- Real-time communication systems
+- Custom chatbox solutions
+- Network optimization
 
 </td>
 <td align="center" width="33%">
 
-### 🎨 **UI/UX Design**
-- Clean **modern interfaces**
-- Intuitive **user experience**
-- Consistent **design systems**
-- Interactive **prototypes**
+### **Software Engineering**
+- Clean code principles
+- Test-driven development
+- Continuous integration/deployment
+- Code review and quality assurance
 
 </td>
 </tr>
@@ -206,80 +192,48 @@
 
 ---
 
-## 💭 **Dev Quote of the Day**
+## 📈 Project Metrics
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect!**
+## 🤝 Professional Contact
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/GEZCQwczMY)
-
-**AMADEUSE Community**
-
-</td>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/AveryMist)
-
-**My Projects & Code**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist)
+**Source Code & Projects**
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:agnetjarod@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
+**Technical Community**
 
-**Direct Contact**
+</td>
+<td align="center" width="33%">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnetjarod@gmail.com)
+**Professional Inquiries**
 
 </td>
 </tr>
 </table>
 
-### 💬 **Always up for:**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-🚀 **Collaborating**
-on cool projects
-
-</td>
-<td width="25%" align="center">
-
-💡 **Discussing**
-tech & creative ideas
-
-</td>
-<td width="25%" align="center">
-
-🎮 **VRChat OSC**
-integration projects
-
-</td>
-<td width="25%" align="center">
-
-📱 **Cross-platform**
-app development
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Available for:
+- **Technical Collaboration** on desktop applications
+- **VRChat OSC Integration** consulting
+- **Code Review** and architecture discussions
+- **Open Source Contributions**
 
 </div>
 
@@ -287,15 +241,9 @@ app development
 
 <div align="center">
 
-### 🌟 **"Sometimes it works on the first try... but that's rare!"** 🌟
+![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Made with Precision](https://img.shields.io/badge/Made_with-Precision_&_Quality-58a6ff?style=for-the-badge)
 
-![Made with Love](https://img.shields.io/badge/Made_with-❤️_by_AveryMyst-FF6B6B?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=AveryMist&color=6366f1&style=for-the-badge&label=Profile+Views)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-*Feel free to check out my projects or ping me if you want to chat!* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Merci%20!%20Thank%20you%20!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 
 </div>
