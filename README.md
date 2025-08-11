@@ -41,9 +41,10 @@
 
 ---
 
-<div align="center">
+<details open>
+<summary><h2>🌟 About AveryMyst</h2></summary>
 
-## 🌟 **About AveryMyst**
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
@@ -100,9 +101,12 @@ const averymyst = new AveryMyst()
 console.log(averymyst.sayHello())
 ```
 
-<div align="center">
+</details>
 
-## 🚀 **Featured Projects**
+<details>
+<summary><h2>🚀 Featured Projects</h2></summary>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -165,6 +169,11 @@ console.log(averymyst.sayHello())
 [![Discord Community](https://img.shields.io/badge/💬_Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GEZCQwczMY)
 
 </div>
+
+</details>
+
+<details>
+<summary><h2>🛠️ Technical Stack</h2></summary>
 
 ## 🛠️ **Technical Stack**
 
@@ -245,6 +254,11 @@ console.log(averymyst.sayHello())
 
 </div>
 
+</details>
+
+<details>
+<summary><h2>🎯 Areas of Expertise</h2></summary>
+
 ---
 
 ## 🎯 **Areas of Expertise**
@@ -285,6 +299,11 @@ console.log(averymyst.sayHello())
 
 </div>
 
+</details>
+
+<details>
+<summary><h2>🤝 Let's Connect</h2></summary>
+
 ---
 
 ## 🤝 **Let's Connect**
@@ -321,6 +340,8 @@ console.log(averymyst.sayHello())
 - **Open Source Contributions**
 
 </div>
+
+</details>
 
 ---
 
