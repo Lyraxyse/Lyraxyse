@@ -5,8 +5,8 @@
 
 <!-- Profile view with animated stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AveryMist&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=AveryMist&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyraxys&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Lyraxys&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" width="48%"/>
 </p>
 
 <!-- Animated typing effect with more style -->
@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AveryMist&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyraxys&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <!-- Status badges with animations -->
 <p>
@@ -28,13 +28,13 @@
 
 <!-- Social proof section -->
 <p>
-<img src="https://img.shields.io/github/followers/AveryMist?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/AveryMist?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/followers/Lyraxys?style=for-the-badge&logo=github&color=yellow&labelColor=1a1a1a" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/Lyraxys?style=for-the-badge&logo=github&color=blue&labelColor=1a1a1a" alt="GitHub stars"/>
 </p>
 
 <!-- Visitor counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AveryMist&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Lyraxys&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -142,7 +142,7 @@ console.log(averymyst.sayHello())
 - 🎨 **Custom themes** and UI
 - ⚡ **Performance optimized**
 
-[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-YTM/releases)
+[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyraxys/AMADEUSE-YTM/releases)
 
 </td>
 <td width="50%" align="center">
@@ -160,7 +160,7 @@ console.log(averymyst.sayHello())
 - 🌐 **Multi-source** news integration
 - 🎨 **Dark/Light themes**
 
-[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveryMist/AMADEUSE-MUSIC-NEWS)
+[![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lyraxys/AMADEUSE-MUSIC-NEWS)
 
 </td>
 </tr>
@@ -233,7 +233,7 @@ console.log(averymyst.sayHello())
 
 ### 📊 **Language Statistics**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryMist&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Most Used Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyraxys&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" alt="Most Used Languages" width="100%"/>
 
 ### 🌐 **Additional Languages & Technologies**
 
@@ -313,7 +313,7 @@ console.log(averymyst.sayHello())
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/AveryMist">
+<a href="https://github.com/Lyraxys">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br/><b>Source Code & Projects</b>
