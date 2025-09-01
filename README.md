@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=AVERYMYST&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=💻%20Software%20Engineer%20•%20🎮%20VRChat%20OSC%20•%20🚀%20Desktop%20Apps%20•%20🌟%20Open%20Source&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=250&section=header&text=Lyraxys&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=💻%20Software%20Engineer%20•%20🎮%20VRChat%20OSC%20•%20🚀%20Desktop%20Apps%20•%20🌟%20Open%20Source&descAlignY=60&descSize=20"/>
 
 <!-- Profile view with animated stats -->
 <p align="center">
@@ -42,7 +42,7 @@
 ---
 
 <details open>
-<summary><h2>🌟 About AveryMyst</h2></summary>
+<summary><h2>🌟 About Lyraxys</h2></summary>
 
 <div align="center">
 
@@ -69,8 +69,8 @@
 </div>
 
 ```typescript
-class AveryMyst {
-    name = "AveryMyst"
+class Lyraxys {
+    name = "Lyraxys"
     role = "Software Engineer"
     experience = "5+ Years"
     status = "🚀 Active Developer"
@@ -97,8 +97,8 @@ class AveryMyst {
     }
 }
 
-const averymyst = new AveryMyst()
-console.log(averymyst.sayHello())
+const Lyraxys = new Lyraxys()
+console.log(Lyraxys.sayHello())
 ```
 
 </details>
