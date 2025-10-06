@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Header -->
@@ -55,3 +56,58 @@ class Lyraxys {
   technologies = ["TypeScript","JavaScript","Python","C#","C++","Java","Rust","Electron","React","Unity"]
   sayHello() { return `Hello! I'm ${this.name} — ${this.role}` }
 }
+
+
+</details>
+
+<details>
+<summary><h2>🛠️ Technical Stack</h2></summary>
+
+<div align="center">
+
+<!-- Compact, single-color stack -->
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-b3001b?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/React-b3001b?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Electron-b3001b?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Unity-b3001b?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Python-b3001b?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=161b22"/>
+</p>
+
+</div>
+
+</details>
+
+<details>
+<summary><h2>🤝 Let's Connect</h2></summary>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Lyraxys">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+</a>
+<br/><b>Source Code & Projects</b>
+</td>
+<td align="center" width="50%">
+<a href="mailto:agnetjarod@gmail.com">
+<img src="https://img.shields.io/badge/Email-b3001b?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=161b22" alt="Email"/>
+</a>
+<br/><b>Professional Inquiries</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/Made_with-💖_&_☕-b3001b?style=for-the-badge&labelColor=161b22" alt="Made with love"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+</div>
