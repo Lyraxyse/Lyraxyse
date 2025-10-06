@@ -56,7 +56,7 @@ class Lyraxys {
   technologies = ["TypeScript","JavaScript","Python","C#","C++","Java","Rust","Electron","React","Unity"]
   sayHello() { return `Hello! I'm ${this.name} — ${this.role}` }
 }
-
+```
 
 </details>
 
