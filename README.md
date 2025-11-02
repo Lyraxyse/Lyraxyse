@@ -155,7 +155,3 @@ class Lyraxys {
 <img src="https://img.shields.io/badge/Made_with-💖_&_☕-b3001b?style=for-the-badge&labelColor=161b22" alt="Made with love"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 </div>
-
-C'est prêt à être utilisé sur ton GitHub : desktop, android, toutes les technos et aucune référence indésirable !
-
-[1](https://developer.android.com)
